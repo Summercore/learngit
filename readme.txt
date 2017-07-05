@@ -1,5 +1,5 @@
 #summer added by 2017.07.04
-#
+#file
 
-git is a version control system.
-git is a free software.
+Git is a distributed and version control system.
+Git is a free software distributed under the GPL.
